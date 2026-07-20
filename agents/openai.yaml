@@ -1,0 +1,4 @@
+interface:
+  display_name: Five Launch Gates And Three Packages
+  short_description: Public-safe GTM launch framework.
+  default_prompt: Use this skill to build or review a GTM launch plan, readiness checklist, launch asset package, competitive positioning, pricing adjustment plan, or post-launch optimization plan using the Five Launch Gates And Three Packages framework.
