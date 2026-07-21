@@ -1,11 +1,11 @@
 ---
-name: five-launch-gates-three-packages
-description: "Public-safe GTM launch planning using the Five Launch Gates And Three Packages framework. Use when the user needs to build, review, or improve a new product launch plan, launch readiness checklist, launch asset package, competitive positioning, pricing adjustment plan, sales/channel enablement plan, marketing brief, or post-launch optimization plan for hardware or consumer products."
+name: gtm-five-launch-gates-three-packages
+description: "Public-safe GTM skill for new product launch planning using the GTM Five Launch Gates And Three Packages framework. Use when the user needs GTM-specific support to build, review, or improve a new product launch plan, launch readiness checklist, launch asset package, competitive positioning, pricing adjustment plan, sales/channel enablement plan, marketing brief, or post-launch optimization plan for hardware or consumer products."
 ---
 
-# Five Launch Gates And Three Packages
+# GTM Five Launch Gates And Three Packages
 
-Use this skill to turn product information into a practical GTM launch plan using the Five Launch Gates And Three Packages framework.
+Use this skill to turn product information into a practical GTM launch plan using the GTM Five Launch Gates And Three Packages framework.
 
 Core stance: GTM moves a product from “built” to “launched, understood, sold, scaled, and improved.”
 
@@ -19,7 +19,7 @@ Keep outputs generic and reusable unless the user explicitly provides company-sp
 - Treat price, cost, margin, and sales forecast as sensitive. Ask the user whether the work is private before including exact numbers.
 - Flag unverified claims involving performance, medical/health effects, safety, certifications, lab tests, children, or competitor superiority.
 
-## Default Method: Five Launch Gates And Three Packages
+## Default Method: GTM Five Launch Gates And Three Packages
 
 Use this method unless the user clearly asks for another framework.
 
