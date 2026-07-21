@@ -181,4 +181,4 @@ python3 /path/to/skill-creator/scripts/quick_validate.py /path/to/gtm-five-launc
 
 ## License
 
-No license has been added yet. Add a license before inviting broad external reuse or contributions.
+This project is released under the MIT License. See [LICENSE](LICENSE) for details.
